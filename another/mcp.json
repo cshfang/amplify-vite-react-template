@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "weather": {
+    "another-weather": {
       "command": "npx",
       "args": ["-y", "@dangahagan/weather-mcp"],
       "env": {
