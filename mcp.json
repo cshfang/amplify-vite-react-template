@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "another-weather": {
+      "command": "npx",
+      "args": ["-y", "@dangahagan/weather-mcp"],
+      "env": {
+        "ENABLED_TOOLS": "all"
+      }
+    }
+  }
+}
